@@ -1,0 +1,377 @@
+{
+   "FirmaId":2580,
+   "Firma":"Ac\u0131badem Sa\u011Fl\u0131k Hizmetleri",
+   "Url":"http:\/\/78.189.17.68:2222\/sayacgonder",
+   "TimeOut":1000,
+   "Port":222,
+   "Adet":12,
+   "Tarih":"14.06.2023 12:32:52",
+   "Cihazlar":[
+      {
+         "Tarih":"14.06.2023 12:32:43",
+         "Ip":"192.168.2.50",
+         "Durum":true,
+         "Cevap":"Lexmark MX511de version NH63.SB.N640 kernel 3.0.0 All-N-1",
+         "Marka":"Lexmark",
+         "Serino":"70157GHH1R14N",
+         "Sayaclar":{
+            "A4Siyah":32236,
+            "A4Renkli":0,
+            "A3Siyah":0,
+            "A3Renkli":0
+         },
+         "Sarf":[
+            {
+               "A\u00E7\u0131klama":"Siyah Toner",
+               "Kapasite":"10000",
+               "Seviye":"3600"
+            },
+            {
+               "A\u00E7\u0131klama":"G\u00F6r\u00FCntlme \u00DCni",
+               "Kapasite":"60000",
+               "Seviye":"29400"
+            },
+            {
+               "A\u00E7\u0131klama":"Bak\u00FDm Kiti",
+               "Kapasite":"200000",
+               "Seviye":"162000"
+            }
+         ]
+      },
+      {
+         "Tarih":"14.06.2023 12:32:43",
+         "Ip":"192.168.2.51",
+         "Durum":true,
+         "Cevap":"Samsung SL-M4025ND; V4.00.02.17 OCT-23-2017;Engine V1.00.16;NIC V4.01.62 SEPTEMBER-27-2017;S\/N ZDDYB8GK1F0027E",
+         "Marka":"Samsung",
+         "Serino":"ZDDYB8GK1F0027E",
+         "Sayaclar":{
+            "A4Siyah":260585,
+            "A4Renkli":0,
+            "A3Siyah":0,
+            "A3Renkli":0
+         },
+         "Sarf":[
+            {
+               "A\u00E7\u0131klama":"Black Toner Cartridge S\/N:CRUM-18020888526",
+               "Kapasite":"10000",
+               "Seviye":"2100"
+            },
+            {
+               "A\u00E7\u0131klama":"Black Imaging Unit (OPC Unit) S\/N:CRUM-17112215521",
+               "Kapasite":"30000",
+               "Seviye":"18300"
+            },
+            {
+               "A\u00E7\u0131klama":"Fuser ",
+               "Kapasite":"90000",
+               "Seviye":"-3"
+            },
+            {
+               "A\u00E7\u0131klama":"Transfer Roller ",
+               "Kapasite":"100000",
+               "Seviye":"9319"
+            },
+            {
+               "A\u00E7\u0131klama":"MP Roller ",
+               "Kapasite":"100000",
+               "Seviye":"99915"
+            },
+            {
+               "A\u00E7\u0131klama":"MP Retard Roller ",
+               "Kapasite":"80000",
+               "Seviye":"79915"
+            },
+            {
+               "A\u00E7\u0131klama":"Tray 1 Roller ",
+               "Kapasite":"90000",
+               "Seviye":"-3"
+            },
+            {
+               "A\u00E7\u0131klama":"Tray 1 Retard Roller ",
+               "Kapasite":"60000",
+               "Seviye":"-3"
+            }
+         ]
+      },
+      {
+         "Tarih":"14.06.2023 12:32:44",
+         "Ip":"192.168.2.52",
+         "Durum":false,
+         "Cevap":"Eri\u015Filemedi...",
+         "Marka":"",
+         "Serino":"",
+         "Sayaclar":{
+            "A4Siyah":0,
+            "A4Renkli":0,
+            "A3Siyah":0,
+            "A3Renkli":0
+         },
+         "Sarf":[
+            
+         ]
+      },
+      {
+         "Tarih":"14.06.2023 12:32:45",
+         "Ip":"192.168.2.53",
+         "Durum":false,
+         "Cevap":"Eri\u015Filemedi...",
+         "Marka":"",
+         "Serino":"",
+         "Sayaclar":{
+            "A4Siyah":0,
+            "A4Renkli":0,
+            "A3Siyah":0,
+            "A3Renkli":0
+         },
+         "Sarf":[
+            
+         ]
+      },
+      {
+         "Tarih":"14.06.2023 12:32:46",
+         "Ip":"192.168.2.54",
+         "Durum":false,
+         "Cevap":"Eri\u015Filemedi...",
+         "Marka":"",
+         "Serino":"",
+         "Sayaclar":{
+            "A4Siyah":0,
+            "A4Renkli":0,
+            "A3Siyah":0,
+            "A3Renkli":0
+         },
+         "Sarf":[
+            
+         ]
+      },
+      {
+         "Tarih":"14.06.2023 12:32:47",
+         "Ip":"192.168.2.55",
+         "Durum":false,
+         "Cevap":"Eri\u015Filemedi...",
+         "Marka":"",
+         "Serino":"",
+         "Sayaclar":{
+            "A4Siyah":0,
+            "A4Renkli":0,
+            "A3Siyah":0,
+            "A3Renkli":0
+         },
+         "Sarf":[
+            
+         ]
+      },
+      {
+         "Tarih":"14.06.2023 12:32:48",
+         "Ip":"192.168.2.56",
+         "Durum":false,
+         "Cevap":"Eri\u015Filemedi...",
+         "Marka":"",
+         "Serino":"",
+         "Sayaclar":{
+            "A4Siyah":0,
+            "A4Renkli":0,
+            "A3Siyah":0,
+            "A3Renkli":0
+         },
+         "Sarf":[
+            
+         ]
+      },
+      {
+         "Tarih":"14.06.2023 12:32:49",
+         "Ip":"192.168.2.57",
+         "Durum":false,
+         "Cevap":"Eri\u015Filemedi...",
+         "Marka":"",
+         "Serino":"",
+         "Sayaclar":{
+            "A4Siyah":0,
+            "A4Renkli":0,
+            "A3Siyah":0,
+            "A3Renkli":0
+         },
+         "Sarf":[
+            
+         ]
+      },
+      {
+         "Tarih":"14.06.2023 12:32:50",
+         "Ip":"192.168.2.58",
+         "Durum":false,
+         "Cevap":"Eri\u015Filemedi...",
+         "Marka":"",
+         "Serino":"",
+         "Sayaclar":{
+            "A4Siyah":0,
+            "A4Renkli":0,
+            "A3Siyah":0,
+            "A3Renkli":0
+         },
+         "Sarf":[
+            
+         ]
+      },
+      {
+         "Tarih":"14.06.2023 12:32:51",
+         "Ip":"192.168.2.59",
+         "Durum":false,
+         "Cevap":"Eri\u015Filemedi...",
+         "Marka":"",
+         "Serino":"",
+         "Sayaclar":{
+            "A4Siyah":0,
+            "A4Renkli":0,
+            "A3Siyah":0,
+            "A3Renkli":0
+         },
+         "Sarf":[
+            
+         ]
+      },
+      {
+         "Tarih":"14.06.2023 12:32:51",
+         "Ip":"192.168.2.60",
+         "Durum":true,
+         "Cevap":"Samsung X4300LX; V6.D6.17;Engine V3.00.10 05-27-2016_v1.54;NIC ;S\/N 28SYBJLHC0001QB",
+         "Marka":"Samsung",
+         "Serino":"28SYBJLHC0001QB ",
+         "Sayaclar":{
+            "A4Siyah":17054,
+            "A4Renkli":37065,
+            "A3Siyah":0,
+            "A3Renkli":0
+         },
+         "Sarf":[
+            {
+               "A\u00E7\u0131klama":"Cyan Toner Cartridge S\/N:CRUM-18013113156",
+               "Kapasite":"20000",
+               "Seviye":"6000"
+            },
+            {
+               "A\u00E7\u0131klama":"Magenta Toner Cartridge S\/N:CRUM-17112101507",
+               "Kapasite":"20000",
+               "Seviye":"8200"
+            },
+            {
+               "A\u00E7\u0131klama":"Yellow Toner Cartridge S\/N:CRUM-18030700894",
+               "Kapasite":"20000",
+               "Seviye":"8400"
+            },
+            {
+               "A\u00E7\u0131klama":"Black Toner Cartridge S\/N:CRUM-18022493566",
+               "Kapasite":"23000",
+               "Seviye":"18400"
+            },
+            {
+               "A\u00E7\u0131klama":"Cyan Imaging Unit S\/N:CRUM-16100800757",
+               "Kapasite":"100000",
+               "Seviye":"54000"
+            },
+            {
+               "A\u00E7\u0131klama":"Magenta Imaging Unit S\/N:CRUM-16100800646",
+               "Kapasite":"100000",
+               "Seviye":"54000"
+            },
+            {
+               "A\u00E7\u0131klama":"Yellow Imaging Unit S\/N:CRUM-16100800511",
+               "Kapasite":"100000",
+               "Seviye":"54000"
+            },
+            {
+               "A\u00E7\u0131klama":"Black Imaging Unit S\/N:CRUM-16100800730",
+               "Kapasite":"100000",
+               "Seviye":"45000"
+            },
+            {
+               "A\u00E7\u0131klama":"Cyan Imaging Unit",
+               "Kapasite":"300000",
+               "Seviye":"261098"
+            },
+            {
+               "A\u00E7\u0131klama":"Magenta Imaging Unit",
+               "Kapasite":"300000",
+               "Seviye":"261098"
+            },
+            {
+               "A\u00E7\u0131klama":"Yellow Imaging Unit",
+               "Kapasite":"300000",
+               "Seviye":"261098"
+            },
+            {
+               "A\u00E7\u0131klama":"Black Imaging Unit",
+               "Kapasite":"300000",
+               "Seviye":"245689"
+            },
+            {
+               "A\u00E7\u0131klama":"Transfer Unit (Belt)",
+               "Kapasite":"300000",
+               "Seviye":"243000"
+            },
+            {
+               "A\u00E7\u0131klama":"Transfer Unit (Belt Cleaner)",
+               "Kapasite":"150000",
+               "Seviye":"94500"
+            },
+            {
+               "A\u00E7\u0131klama":"Fuser S\/N:1209ABN2DHAK0561",
+               "Kapasite":"250000",
+               "Seviye":"195863"
+            },
+            {
+               "A\u00E7\u0131klama":"T2 Roller",
+               "Kapasite":"150000",
+               "Seviye":"95788"
+            },
+            {
+               "A\u00E7\u0131klama":"Waste Toner Container",
+               "Kapasite":"100",
+               "Seviye":"100"
+            },
+            {
+               "A\u00E7\u0131klama":"ADF Roller",
+               "Kapasite":"200000",
+               "Seviye":"197403"
+            },
+            {
+               "A\u00E7\u0131klama":"ADF Retard Pad",
+               "Kapasite":"100000",
+               "Seviye":"97443"
+            },
+            {
+               "A\u00E7\u0131klama":"MP Roller",
+               "Kapasite":"200000",
+               "Seviye":"199939"
+            },
+            {
+               "A\u00E7\u0131klama":"Tray 1 Roller",
+               "Kapasite":"200000",
+               "Seviye":"164987"
+            },
+            {
+               "A\u00E7\u0131klama":"Tray 2 Roller",
+               "Kapasite":"200000",
+               "Seviye":"183771"
+            }
+         ]
+      },
+      {
+         "Tarih":"14.06.2023 12:32:52",
+         "Ip":"192.168.30.154",
+         "Durum":false,
+         "Cevap":"Eri\u015Filemedi...",
+         "Marka":"",
+         "Serino":"",
+         "Sayaclar":{
+            "A4Siyah":0,
+            "A4Renkli":0,
+            "A3Siyah":0,
+            "A3Renkli":0
+         },
+         "Sarf":[
+            
+         ]
+      }
+   ]
+}
